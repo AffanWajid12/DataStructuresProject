@@ -1,1 +1,1 @@
-This was the data structures project given to me and my teammate Zubair for making a pacman based game. We used nodes in a graph to represent the maze,random maze generation and also implemented shortest path finder using dijkstra's algorithm.
+This was the data structures project given to me and my teammate Zubair for making a pacman based game. We used nodes in a graph to represent the maze,random maze generation and also implemented shortest path finder using dijkstra's algorithm. You can read the documnentation pdf provided to get an overview for this project.
